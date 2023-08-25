@@ -1,14 +1,5 @@
-# Expo Router Example
+# React Native Review App with Formik and Yup
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+This repository contains a simple React Native mobile application that showcases how to implement a review submission form using Formik and Yup for form handling and validation. 
+The app also integrates React Navigation v6 for smooth navigation between different screens.
 
-## 🚀 How to use
-
-```sh
-npx create-expo-app -e with-router
-```
-
-## 📝 Notes
-
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
